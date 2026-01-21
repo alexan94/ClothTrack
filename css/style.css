@@ -1,0 +1,38 @@
+/* Estilos generales */
+body {
+  background-color: #f0f0e9 !important; /* Beige claro */
+}
+
+/* Botón marrón */
+.btn-marron {
+  background-color: #8B5E3C;
+  color: white;
+  font-weight: 600;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+/* Efecto hover */
+.btn-marron:hover {
+  background-color: #704225;
+  color: #fff;
+}
+
+/* Logo centrado */
+.logo-clothtrack {
+  max-width: 850px;
+}
+
+/* Texto principal */
+h1 {
+  color: #8B5E3C;
+}
+
+/* Login texto*/
+h2 {
+    color: #8B5E3C;
+}
+/* Centrado del bloque */
+.text-center {
+  margin-top: -30px;
+}
